@@ -3,7 +3,8 @@
 
 </p>
 <br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+
 
 -  I am a `Computer Science Student` from the Faculty of Computers & Information at Mansoura University
 -  I’m currently studying `Data Science & Machine Learning `
