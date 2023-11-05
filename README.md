@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Bedour Fouad </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+, I'm Bedour Fouad </h1>
 <h3 align="center"> Data Science & Machine Learning  </h3>
-                       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-
+                       
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
