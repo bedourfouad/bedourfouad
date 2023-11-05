@@ -1,16 +1,15 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Bedour Fouad </h1>
+<h3 align="center"> Data Science & Machine Learning  </h3>
 
-<!--
-**bedourfouad/bedourfouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-Here are some ideas to get you started:
+-  I am a `Computer Science Student` from the Faculty of Engineering at Mansoura University
+-  I’m currently studying `Data Science & Machine Learning `
+-  Always `learning new things`
+-  Doing my best 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages and Tools
+
