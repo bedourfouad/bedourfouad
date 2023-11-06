@@ -6,8 +6,7 @@
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
 
--   I'm in my fourth year studying Computers and Control Systems at the Faculty of Engineering. I've always been curious about data and how it helps companies make decisions. So, I started learning data analytics, and I love it! I'm into working with data, finding important stuff, and solving tricky problems. Now, I'm learning data science and want to get even better.
-When I'm not studying or working, I'm into Graphics, digital marketing, and traveling. I like discovering new things and places.
+-   I'm in my fourth year studying  `Computers and Control Systems at the Faculty of Engineering `
 -  I’m currently studying `Data Science & Machine Learning `
 -  Always `learning new things`
 -  Doing my best 
