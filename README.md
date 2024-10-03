@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Bedour Fouad Essa </h1>
 <h3 align="center">🌀 AI Enthusiastic </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medm0sta&label=Profile%20views&color=0e75b6&style=gruvbox" alt="bedour fouad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bedourfouad&label=Profile%20views&color=0e75b6&style=gruvbox" alt="bedourfouad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bedourfouad&theme=gruvbox&row=1&column=9" alt="a7medm0sta" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bedourfouad&theme=gruvbox&row=1&column=9" alt="bedourfouad" /></a> </p>
 
 ---
 
@@ -15,10 +14,9 @@
   <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="AI coding" width="200" />
 </p>
 
-- 🔭 I’m currently working on **Building LLMs**
+- 🔭 I’m currently learning **Computer Vision** and **Natural Language Processing**
 - 🌱 I’m currently learning **MLOps** , **Generative AI** and **Audio**
 - 👯 I’m looking to collaborate on **Reinforcement Learning**
-- 💬 Ask me about **Artificial Intelligence**, specifically in **Computer Vision** and **Natural Language Processing**
 
 ---
 
@@ -33,17 +31,17 @@
 
   <!-- Top languages at the top (smallest) -->
   <div style="margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medm0sta&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 350px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedourfouad&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 350px;"/>
   </div>
   
   <!-- GitHub stats (middle, bigger) -->
   <div style="margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=a7medm0sta&show_icons=true&theme=gotham" alt="GitHub stats" style="width: 450px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=bedourfouad&show_icons=true&theme=gotham" alt="GitHub stats" style="width: 450px;"/>
   </div>
   
   <!-- Contribution streak at the bottom (largest) -->
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medm0sta&theme=gotham" alt="GitHub streak" style="width: 550px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bedourfouad&theme=gotham" alt="GitHub streak" style="width: 550px;"/>
   </div>
 
 
